@@ -39,7 +39,7 @@ export default function Meta() {
             <meta name="og:description"
                 content="Uriel Salischiker's (urielsalis) Personal Portfolio Website." />
             <meta name="og:image" content="images/logos/logo_1200.png" />
-            <meta name="og:url" content="http://urielsalis.com/" />
+            <meta name="og:url" content="https://trialtester98.github.io/ubuntu/" />
             <meta name="og:site_name" content="Uriel Salischiker Personal Portfolio" />
             <meta name="og:locale" content="en_US" />
             <meta name="og:type" content="website" />
