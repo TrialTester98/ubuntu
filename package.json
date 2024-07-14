@@ -1,7 +1,6 @@
 {
   "name": "urielsalis-portfolio",
   "version": "2.0.0",
-  "private": false,
   "homepage": "https://trialtester98.github.io/ubuntu",
   "scripts": {
     "dev": "next dev",
